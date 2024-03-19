@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-acquirerecruiting-staging-184219-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267150135:role/amplify-acquirerecruiting-staging-184219-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267150135:role/amplify-acquirerecruiting-staging-184219-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-acquirerecruiting-staging-184219-deployment",
+      "UnauthRoleName": "amplify-acquirerecruiting-staging-184219-unauthRole",
+      "StackName": "amplify-acquirerecruiting-staging-184219",
+      "StackId": "arn:aws:cloudformation:us-east-1:533267150135:stack/amplify-acquirerecruiting-staging-184219/6c7a15a0-e169-11ee-a451-0a59039ab4a9",
+      "AmplifyAppId": "d2etioaguis3sn"
+    }
+  }
+}
